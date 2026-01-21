@@ -1,7 +1,7 @@
 {
-  "name": "qadam-api",
+  "name": "cip-api",
   "version": "0.0.1",
-  "description": "Qadam Backend API",
+  "description": "CIP Backend API",
   "author": "Bekhruzbek",
   "private": true,
   "license": "MIT",
